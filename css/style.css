@@ -1,5 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Thambi');
+
 div {
     width: 200px;
     height: 200px;
     background-color: #3B5998;
+}
+
+.main-text {
+    color: #00ff90;
+    position: absolute;
+    font-family: 'Baloo Thambi', cursive;
+    font-size: large;
+    padding-left: 1%;
+    bottom: 0;
 }
